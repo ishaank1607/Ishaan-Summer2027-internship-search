@@ -66,3 +66,45 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [Intel] Ocotillo Technology Fabrication Process Engineer Undergrad Intern — Chandler, AZ
+Date Found: 2026-07-30
+URL: https://jobs.intel.com/en/job/phoenix/ocotillo-technology-fabrication-process-engineer-undergrad-intern/41147/36950664128
+
+Dear Intel Hiring Team,
+
+I am writing to apply for the Ocotillo Technology Fabrication Process Engineer Undergrad Intern position at Intel's Chandler, Arizona site. As a Materials Science and Engineering student at Georgia Institute of Technology entering my third year, I am drawn to this role because it puts me directly inside the process-control work that sustains and ramps leading-edge manufacturing technology, which is exactly the kind of hands-on process discipline I am building in my own research.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, tuning precursor concentration and thermal profile along the flow path to hit a targeted crystal composition. That work has trained me to think in terms of tool availability and repeatable process output: every adjustment to flow rate or temperature has to be traceable and reproducible, not a one-off result. Turning those reactor designs into physical hardware has also meant working closely with machinists, iterating on fabrication tolerances until the build matched the design intent, which mirrors the kind of tool and process troubleshooting this internship centers on.
+
+I bring the same rigor to data-driven problem-solving. In an independent MATLAB project, I modeled adaptive cruise control response using a first-order system identification approach across nine vehicle-tire configurations. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and drove error down from as high as 81 percent to under 5 percent while keeping SSE below 0.30 across every configuration. That habit of isolating a root cause in noisy data and iterating a fix until it holds is directly applicable to sustaining defect management, cycle time, and parametric performance on the fab floor.
+
+I would welcome the opportunity to bring this process-control research background and analytical troubleshooting approach to the Ocotillo Technology Fabrication team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [Intel] Ocotillo Technology Fabrication Yield Undergrad Internship — Chandler, AZ
+Date Found: 2026-07-30
+URL: https://jobs.intel.com/en/job/phoenix/ocotillo-technology-fabrication-yield-undergrad-internship/41147/67433745680
+
+Dear Intel Hiring Team,
+
+I am writing to apply for the Ocotillo Technology Fabrication Yield Undergrad Internship at Intel's Chandler, Arizona site. As a Materials Science and Engineering student at Georgia Institute of Technology entering my third year, I am drawn to this role because driving yield and defect improvement through data analysis is precisely the kind of root-cause problem-solving I already practice, and I want to apply it to leading-edge semiconductor manufacturing.
+
+In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data before extracting reaction time, steady-state speed, and acceleration onset. When I found the model's error unacceptably high, I did not accept the noisy result. I traced it to a flawed start-time detection routine, redesigned the detection algorithm, and cut start-time error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across all nine configurations. That process, using data to isolate the true source of an issue and iterating a fix until it holds, is the same loop this role asks of engineers analyzing defectivity and yield data to recommend corrective action.
+
+This analytical discipline is grounded in real process experience. In Professor Juan-Pablo Correa-Baena's lab, I design a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile to tailor crystal composition, and I coordinate directly with machinists to fabricate and iterate on reactor components. That work has taught me to treat process stability and reproducibility as the actual goal, not just a single successful run, which is exactly the mindset yield engineering requires when a device has to consistently meet specification at scale.
+
+I would welcome the opportunity to bring this combination of data-driven root-cause analysis and hands-on process experience to the OTF Yield team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
