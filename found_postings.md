@@ -108,3 +108,24 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [Analog Devices] Process Engineering Intern (Internal Wafer Fab) — Beaverton, OR
+Date Found: 2026-07-31
+URL: https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Process-Engineering-Intern_R257265
+
+Dear Analog Devices Hiring Team,
+
+I am writing to apply for the Process Engineering Intern position at Analog Devices' Beaverton, Oregon wafer fab. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because it sits at the intersection of the crystal growth and process-control work I do in the lab and the yield-driven, data-heavy discipline that keeps a high-volume fab running.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile along the flow path to tailor crystal composition for semiconductor applications. This work has given me direct exposure to the same fundamentals that underlie ADI's epitaxy and deposition process modules: precise control of concentration gradients, thermal conditions, and growth kinetics to hit a targeted material outcome. Translating those reactor designs from CAD into fabricated components has also taught me to treat manufacturability and repeatability as core constraints, not afterthoughts.
+
+I bring the same rigor to the data-driven troubleshooting this role's focus on yield and throughput demands. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That process, using data to isolate a root cause in noisy signals and iterating a fix until it holds, is exactly the loop this role asks of engineers analyzing inline process signals to improve yield and throughput.
+
+I am especially motivated by the breadth of process modules this internship touches, from epitaxy and deposition through photolithography and etch, because it would let me extend the crystal growth principles I already practice in research into a high-volume production environment built around precision and yield. I would welcome the opportunity to bring this research background and analytical approach to the Analog Devices Beaverton team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
