@@ -129,3 +129,24 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [Analog Devices] Equipment Engineer Intern (Internal Wafer Fab) — Beaverton, OR
+Date Found: 2026-08-02
+URL: https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Equipment-Engineer-Intern_R255011
+
+Dear Analog Devices Hiring Team,
+
+I am writing to apply for the Equipment Engineer Intern position supporting the Beaverton, Oregon wafer fab. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because it combines the hands-on mechanical design and troubleshooting work I do in the lab with the equipment reliability discipline that keeps a high-volume fab producing.
+
+In Professor Juan-Pablo Correa-Baena's lab, I designed a continuous-flow reactor in SolidWorks for halide perovskite single-crystal growth, engineering precise controls over precursor concentration and thermal profile to optimize crystal composition. Beyond the design work, I coordinate directly with machinists to translate those CAD models into fabricated components, iterating on tolerances and part geometry until the physical build matches the design intent. That process has given me practical experience with the mechanical troubleshooting mindset this role calls for: when a piece of equipment does not behave as designed, tracing the discrepancy back to a specific mechanical or process cause and fixing it so the tool runs reliably again. My CAD and PLM coursework, including building a multi-level assembly in NX with Teamcenter PDM and running the design through formal engineering change orders, has further reinforced how to treat equipment and tooling changes as controlled, documented processes.
+
+I bring the same rigor to data-driven problem-solving. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That habit of isolating the root cause of an unreliable signal and iterating a fix until it holds is directly transferable to diagnosing tool performance issues in a cleanroom environment.
+
+I would welcome the opportunity to bring this combination of hands-on mechanical design experience and analytical troubleshooting to the Equipment and Process Engineering teams at Analog Devices Beaverton this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
