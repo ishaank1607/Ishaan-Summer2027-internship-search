@@ -150,3 +150,45 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [Intel] New Mexico Process Engineer Undergrad Intern — Rio Rancho, NM
+Date Found: 2026-08-03
+URL: https://jobs.intel.com/en/job/albuquerque/new-mexico-process-engineer-undergrad-intern/41147/54262427104
+
+Dear Intel Hiring Team,
+
+I am writing to apply for the New Mexico Process Engineer Undergrad Intern position at Intel's Rio Rancho site. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because sustaining a fab's daily performance, tool availability, cycle time, defectivity, parametric yield, calls for exactly the kind of disciplined, data-driven process troubleshooting I already practice in my own research and independent projects.
+
+In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data before extracting reaction time, steady-state speed, and acceleration onset. When the model's error came back unacceptably high, I traced the problem to a flawed start-time detection routine, redesigned the detection algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That habit, isolating a root cause buried in noisy data and iterating a fix until it holds, is directly transferable to tracking down the sources of cycle-time loss and parametric drift on a fab floor.
+
+This analytical discipline is grounded in real process experience. In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile along the flow path to hit a targeted crystal composition, and I coordinate directly with machinists to fabricate and iterate on reactor components until they meet precise tolerances. That work has trained me to treat process stability and repeatability as the real goal rather than a single successful run, which is exactly the mindset day-to-day fab-sustaining work demands.
+
+I would welcome the opportunity to bring this combination of data-driven troubleshooting and hands-on process experience to the Intel New Mexico team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [Analog Devices] Engineering Intern – Yield Engineering — Beaverton, OR
+Date Found: 2026-08-03
+URL: https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Engineering-Intern---Yield-Engineering_R261967
+
+Dear Analog Devices Hiring Team,
+
+I am writing to apply for the Engineering Intern – Yield Engineering position at Analog Devices' Beaverton, Oregon wafer fab. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because turning inline process and electrical data into concrete yield and throughput improvements is the same root-cause, data-first approach I already bring to my own project work.
+
+In an independent MATLAB project, I modeled adaptive cruise control response using a first-order system identification approach across nine vehicle-tire configurations, applying moving-average filtering to strip noise from raw sensor data. The initial model ran with unacceptably high error, so rather than accept it, I dug into the signal, found the fault in a start-time detection routine, rebuilt the algorithm, and brought error down from as high as 81 percent to under 5 percent while holding SSE below 0.30 across every configuration tested. Extracting a real signal from noisy data and iterating until the fix is reliable is the exact skill this role would ask of me when reading inline process and electrical data to flag and correct yield excursions.
+
+That analytical habit sits alongside direct process experience from my research. In Professor Juan-Pablo Correa-Baena's lab, I design a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, tuning precursor concentration and thermal profile to hit a targeted composition, and I work closely with machinists to fabricate and refine reactor components to precise tolerances. That work has shown me firsthand that a process is only as good as its repeatability, which is the core problem yield engineering exists to solve at production scale.
+
+I would welcome the opportunity to bring this combination of data-driven analysis and hands-on process experience to the Yield Engineering team at Analog Devices Beaverton this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
