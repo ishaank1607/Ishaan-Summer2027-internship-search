@@ -192,3 +192,24 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [SkyWater Technology] Process Development Engineering Intern — Kissimmee, FL
+Date Found: 2026-08-04
+URL: https://www.linkedin.com/jobs/view/process-development-engineering-intern-at-skywater-technology-4368079676
+
+Dear SkyWater Technology Hiring Team,
+
+I am writing to apply for the Process Development Engineering Intern position at SkyWater Technology. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because it applies the same precursor control and materials-processing principles I study directly to the semiconductor packaging processes your Process Development team develops and refines.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, engineering precise controls over precursor concentration and thermal profile to tailor crystal composition for semiconductor applications. Beyond the design work, I coordinate directly with machinists to translate my CAD models into fabricated reactor components, iterating on tolerances and geometry until the physical build matches the design intent, experience directly relevant to interpreting CAD drawings and developing methodology for new process setups. Running controlled synthesis experiments and evaluating the resulting crystal composition has also given me hands-on experience with the precision and repeatability that clean-room process development demands.
+
+I bring the same rigor to data-driven experimental work. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That habit, running an experiment, evaluating the resulting data critically, and iterating a fix until it holds, is exactly the process discipline this role would ask of me when preparing for and executing new semiconductor packaging processes.
+
+I would welcome the opportunity to bring this combination of hands-on materials processing research and analytical, experiment-driven problem solving to the Process Development team at SkyWater Technology this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
