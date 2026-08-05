@@ -271,3 +271,222 @@ URL: https://www.linkedin.com/jobs/view/electrical-engineering-intern-summer-202
 Cover letter: pending — awaiting updated ECE/CompE resume material.
 
 ---
+
+## [SkyWater Technology] Engineering Intern — Austin, TX
+Category: Semiconductor/Process
+Date Found: 2026-08-05
+URL: https://www.linkedin.com/jobs/view/engineering-intern-at-skywater-technology-4368069777
+
+Dear SkyWater Technology Hiring Team,
+
+I am writing to apply for the Engineering Intern position at SkyWater Technology's Austin facility. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because a fab-group rotation touching photolithography, etch, diffusion, or thin film deposition sits directly on top of the crystal growth and process-control work I already do in my own research.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile along the flow path to hit a targeted crystal composition. That work has given me hands-on exposure to the same fundamentals that govern thin film deposition and diffusion: precise control of concentration gradients and thermal conditions to reach a repeatable material outcome. Because I also coordinate with machinists to turn my CAD models into fabricated reactor components, iterating on tolerances until the build matches the design intent, I have direct experience thinking about a process from both the materials side and the equipment side, which maps well onto a role that spans process improvement, equipment variability reduction, and capital equipment sourcing.
+
+I bring the same rigor to data-driven troubleshooting. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That habit of isolating a root cause in noisy data and iterating a fix until it holds is exactly what a fab-group rotation focused on yield and equipment variability would ask of me.
+
+I would welcome the opportunity to bring this combination of crystal-growth research and hands-on equipment and CAD experience to the Engineering Intern program at SkyWater Technology's Austin site this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [SkyWater Technology] Intern, Fab/Yield Engineering — Bloomington, MN
+Category: Semiconductor/Process
+Date Found: 2026-08-05
+URL: https://www.linkedin.com/jobs/view/intern-fab-yield-engineering-at-skywater-technology-4405061296
+
+Dear SkyWater Technology Hiring Team,
+
+I am writing to apply for the Intern, Fab/Yield Engineering position on SkyWater Technology's Yield Systems team in Bloomington, Minnesota. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because identifying and implementing ways to analyze and optimize yield metrics is the same root-cause, data-first problem-solving I already practice in my own project work.
+
+In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations, applying moving-average filtering to clean noisy sensor data before extracting reaction time, steady-state speed, and acceleration onset. When the model's error came back unacceptably high, I did not accept the noisy result. I traced it to a flawed start-time detection routine, redesigned the detection algorithm, and cut start-time error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across all nine configurations. That process, extracting a real signal from noisy data and iterating a fix until it holds, is directly transferable to identifying and optimizing yield metrics across a fab's process data.
+
+This analytical discipline is grounded in real process experience. In Professor Juan-Pablo Correa-Baena's lab, I design a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile to tailor crystal composition, and I coordinate directly with machinists to fabricate and iterate on reactor components. That work has taught me to treat repeatability, not a single successful run, as the actual measure of a good process, which is exactly the mindset yield engineering requires.
+
+I would welcome the opportunity to bring this combination of data-driven analysis and hands-on process experience to the Yield Systems team at SkyWater Technology this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [SkyWater Technology] Facilities Equipment Engineering Intern — Kissimmee, FL
+Category: Semiconductor/Process
+Date Found: 2026-08-05
+URL: https://www.indeed.com/viewjob?jk=d0e674e15a33d679
+
+Dear SkyWater Technology Hiring Team,
+
+I am writing to apply for the Facilities Equipment Engineering Intern position at SkyWater Technology's Kissimmee, Florida facility. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because it combines the hands-on mechanical design work I do in the lab with the chemical and facilities systems that keep a fab's ultrapure-water, HVAC, and chemical-safety infrastructure running.
+
+In Professor Juan-Pablo Correa-Baena's lab, I designed a continuous-flow reactor in SolidWorks for halide perovskite single-crystal growth, engineering precise controls over precursor concentration and thermal profile to optimize crystal composition. Beyond the design work, I coordinate directly with machinists to translate my CAD models into fabricated components, iterating on tolerances and part geometry until the physical build matches the design intent, experience that maps directly onto sourcing and building out facilities equipment like a chemical-testing cart. My CAD and PLM coursework, including building a multi-level assembly in NX with Teamcenter PDM and running the design through formal engineering change orders, has further reinforced how to treat equipment builds as controlled, documented processes rather than one-off fixes.
+
+I bring the same rigor to data-driven troubleshooting. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response across nine vehicle-tire configurations. When I found the model's error unacceptably high, I traced it to a flawed start-time detection routine, redesigned the algorithm, and cut error from as high as 81 percent down to under 5 percent while pushing SSE below 0.30 across every configuration. That habit of isolating the root cause of an unreliable system and iterating a fix until it holds is directly transferable to diagnosing issues in facilities equipment and chemical delivery systems.
+
+I would welcome the opportunity to bring this combination of hands-on mechanical design experience and process-control research to the Facilities Equipment Engineering team at SkyWater Technology's Kissimmee site this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [SpaceX] Silicon Engineer Intern/Co-op — Palo Alto, CA / Irvine, CA / Redmond, WA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://boards.greenhouse.io/spacex/jobs/8621763002
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Optiver] FPGA Engineer Intern — Chicago, IL
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.optiver.com/join-us/jobs/8402114002/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Optiver] FPGA Engineer Intern — Austin, TX
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.optiver.com/join-us/jobs/8641352002/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [IMC Trading] Hardware Engineer Intern — Chicago, IL
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.imc.com/us/careers/jobs/4823945101
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [DRW] FPGA Intern — Chicago, IL
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.drw.com/work-at-drw/listings/fpga-intern-3484423
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Akuna Capital] Hardware Engineer Intern — Chicago, IL
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://akunacapital.com/careers/job/8018880/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] ASIC Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/57decba7-ade0-448f-b5ab-e8ba5b7baf12
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] RTL Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] DV (Design Verification) Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] Physical Design Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/etched
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] Firmware Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] Supercomputing Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] Inference Intern, Architecture — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Etched] ChipSim Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Apex Technology, Inc.] Software Engineering Intern, Embedded Systems — Los Angeles, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [TETRAMEM] Software Engineer Intern, Embedded — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Nightwing] Software / Hardware Engineering Intern — Annapolis Junction, MD
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
