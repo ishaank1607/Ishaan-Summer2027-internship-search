@@ -490,3 +490,75 @@ URL: https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Soft
 Cover letter: pending — awaiting updated ECE/CompE resume material.
 
 ---
+
+## [Draper] Electronics & Embedded Systems Intern (Summer 2027) — Cambridge, MA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Quadric] Design Verification Intern — Burlingame, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.ziprecruiter.com/c/quadric/Job/Design-Verification-Intern/-in-Burlingame,CA?jid=a8b06804a5db3e47
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Citadel Securities] FPGA Engineer - Intern (US) — New York, NY / Miami, FL
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Anduril Industries] 2027 Electrical Engineer Intern — Multiple U.S. Locations
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Tenstorrent] CPU DV Intern - AI Silicon — Austin, TX / Santa Clara, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.wayup.com/i-j-Tenstorrent-222414178868297/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Tenstorrent] RISC-V CPU Microarchitecture / RTL Intern — Santa Clara, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4970942007
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Tenstorrent] DFT Engineer Intern - AI/CPU Silicon Design — Santa Clara, CA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://startup.jobs/dft-engineer-intern-ai-cpu-silicon-design-tenstorrent-4280013
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Tenstorrent] ASIC Design and Verification Intern – SOC — Belgrade, Serbia
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://aijobs.net/job/1188216-asic-design-and-verification-intern-soc/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---

@@ -530,3 +530,157 @@ Sincerely,
 Thirisha Solai
 
 ---
+
+## [Wells Fargo] 2027 Finance Summer Internship, Early Careers — Charlotte, NC / Irving, TX / Minneapolis, MN
+Date Found: 2026-08-05
+URL: https://www.wellsfargojobs.com/en/jobs/r-555860/2027-finance-summer-internship-early-careers/
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear Wells Fargo Early Careers Hiring Team,
+
+I am writing to apply for the 2027 Finance Summer Internship through Wells Fargo's Early Careers program. As a Business Administration student concentrating in Information Technology Management at the Georgia Institute of Technology's Scheller College of Business, I am drawn to this role because it combines the financial analysis training I am building with the data-driven, cross-functional exposure a large finance organization like Wells Fargo can offer.
+
+Through an independent project analyzing five publicly traded financial-sector companies, I evaluated fundamentals, valuation metrics, and market positioning, then synthesized my findings into a formal investment report used to inform client portfolio recommendations at Loftin Wealth Partners. That work sharpened my ability to translate raw financial data into clear, decision-ready insight, using tools including SQL, Python, RStudio, and Tableau to organize and interpret data - skills I see mapping directly onto the reporting and analysis this Finance Summer Internship would ask of me. My coursework in Information Technology Management has also given me a foundation in how technology and data systems support financial decision-making, which I believe complements the rotational, function-spanning structure of this program.
+
+I am motivated by the opportunity to build a broad view of how a major financial institution operates, from corporate finance to reporting, while contributing real analytical work from day one. I would welcome the opportunity to bring my research background and technical skill set to your team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [KeyBank] 2027 KeyBank Finance/Accounting Summer Internship — Cleveland, OH
+Date Found: 2026-08-05
+URL: https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-KeyBank-Finance-Accounting-Summer-Internship---Cleveland--OH_R-39972
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear KeyBank Hiring Team,
+
+I am writing to apply for the 2027 KeyBank Finance/Accounting Summer Internship in Cleveland, OH. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this internship because it offers hands-on exposure to the finance and accounting functions of a regional bank, an environment where I can apply both my analytical training and my growing technical skill set.
+
+In an independent research project, I performed equity research on five publicly traded financial-sector companies, evaluating financial statements, valuation metrics, and market trends, and synthesized my findings into a formal investment report. I relied on SQL, Python, RStudio, and Tableau throughout that process to organize and interpret financial data, skills I would bring directly to the reporting and analytical work this internship involves. I also currently serve as a mentee in a competitive fintech mentorship program at Georgia State University, where I have completed sessions on payments infrastructure and digital banking and collaborated with peers on an original fintech solution that earned first-place recognition, experience that has strengthened my understanding of how financial institutions operate day to day.
+
+I would welcome the opportunity to bring my analytical background and enthusiasm for banking to KeyBank this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [PNC] Asset Management Group Undergraduate Intern — Philadelphia, PA (+ Multiple PNC Locations)
+Date Found: 2026-08-05
+URL: https://pnc.wd5.myworkdayjobs.com/en-US/External/job/Asset-Management-Group-Undergraduate-Intern_R196700
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear PNC Asset Management Group Hiring Team,
+
+I am writing to apply for the Asset Management Group Undergraduate Intern position at PNC. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this role because it sits directly at the intersection of investment analysis and client-facing advisory work that I have already begun to build experience in.
+
+As a Research Intern at Loftin Wealth Partners, I conducted equity research on more than five financial-sector companies to identify potential investment opportunities for high-net-worth client portfolios, evaluating financial statements, valuation metrics, and market trends to support investment analysis and portfolio discussions. I also participated in more than seven client advisory meetings covering portfolio allocation, retirement planning, and estate planning strategies, which gave me direct exposure to how investment recommendations are communicated and applied in a wealth management setting. That experience taught me how to move from raw financial data to a clear, client-ready recommendation, a skill I would bring to PNC's Private Bank and Institutional Asset Management teams.
+
+I would welcome the opportunity to bring this research and client-advisory background to PNC's Asset Management Group this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [JPMorganChase] 2027 Operations Analyst Program, Summer Analyst — NY Metro & Chicago
+Date Found: 2026-08-05
+URL: https://www.builtinchicago.org/job/2027-operations-analyst-program-summer-analyst-ny-metro-chicago/10307805
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear JPMorganChase Operations Analyst Program Hiring Team,
+
+I am writing to apply for the 2027 Operations Analyst Program, Summer Analyst position. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this role because it combines the operational and data-analysis skills I have been building with the scale and structure of JPMorganChase's Operations organization.
+
+In an independent research project, I performed equity research on five publicly traded financial-sector companies, assessing financials, market performance, and macro trends to evaluate sector risk and growth potential, then synthesized my findings into a formal investment report. Throughout that project I used SQL, Python, RStudio, and Tableau to organize and interpret data, skills that translate directly to the processing, servicing, and reporting work this program involves. My coursework in Information Technology Management has also given me a working understanding of how data and technology systems support operational decision-making at scale, which I see as directly relevant to a rotational program spanning Processing/Servicing, Trade/Asset Support, Reporting, and Transformation.
+
+I would welcome the opportunity to bring my analytical background and technical skill set to JPMorganChase's Operations Analyst Program this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [JPMorganChase] 2027 Corporate Analyst Development Program, Summer Analyst — New York Metro
+Date Found: 2026-08-05
+URL: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear JPMorganChase Corporate Analyst Development Program Hiring Team,
+
+I am writing to apply for the 2027 Corporate Analyst Development Program, Summer Analyst position. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this program's cross-functional, project-based rotation model because it mirrors the range of financial and analytical work I have sought out in my own coursework and research.
+
+In an independent project, I performed equity research on five publicly traded financial-sector companies, evaluating fundamentals and market positioning, and synthesized my findings into a formal investment report using SQL, Python, RStudio, and Tableau to organize and interpret the underlying data. I have also completed a competitive fintech mentorship program at Georgia State University, where I worked with peers to develop an original solution addressing a real-world challenge in financial services, earning first-place recognition for its innovation and feasibility. Together, these experiences have given me both the analytical rigor and the collaborative, business-facing skills this program calls for.
+
+I would welcome the opportunity to bring this background to JPMorganChase's Corporate Analyst Development Program this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [JPMorganChase] 2027 Global Finance & Business Management, Summer Analyst — OH, IL, DE, TX
+Date Found: 2026-08-05
+URL: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765276
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear JPMorganChase Global Finance & Business Management Hiring Team,
+
+I am writing to apply for the 2027 Global Finance & Business Management, Summer Analyst position. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this role because it combines financial analysis with the data and technology tooling that support strategic decision-making, an intersection my coursework and project work have prepared me for directly.
+
+In an independent research project, I evaluated the financials, market performance, and macro trends of five publicly traded financial-sector companies, using SQL, Python, RStudio, and Tableau to organize and interpret data before synthesizing my findings into a formal investment report. My Information Technology Management concentration has further built my understanding of how data systems and technology platforms support financial strategy, and my experience as a mentee in a competitive fintech program at Georgia State University, where I helped develop an original fintech solution recognized with first place, has sharpened my ability to connect technical tools to real financial problems.
+
+I would welcome the opportunity to bring this analytical and technical background to JPMorganChase's Global Finance & Business Management team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [PGIM] 2027 Private Credit, Summer Investment Analyst Program — Newark, NJ (+ Multiple Locations)
+Date Found: 2026-08-05
+URL: https://jobs.pgim.com/us-en/jobs-details/R-124649/pgim-2027-private-credit-summer-investment-analyst-program
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear PGIM Private Credit Hiring Team,
+
+I am writing to apply for the 2027 Private Credit, Summer Investment Analyst Program. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this program because it would let me build on the equity and credit research experience I have already developed in a professional wealth management setting.
+
+As a Research Intern at Loftin Wealth Partners, I conducted equity research on more than five financial-sector companies, evaluating financial statements, valuation metrics, and market trends to support investment analysis and portfolio discussions for high-net-worth clients. I later formalized that work into a standalone project analyzing sector risk and growth potential using SQL, Python, RStudio, and Tableau to organize and interpret the underlying data, skills I believe are directly relevant to evaluating credit opportunities across Corporate Finance, Real Assets, and Alternatives. My participation in more than seven client advisory meetings also gave me early exposure to how investment recommendations are built and communicated, a foundation I would bring to PGIM's Private Credit rotations.
+
+I would welcome the opportunity to bring this research background to PGIM's Private Credit Summer Investment Analyst Program this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
