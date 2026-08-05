@@ -213,3 +213,61 @@ Sincerely,
 Ishaan Khambaswadkar
 
 ---
+
+## [Samsung Austin Semiconductor] 2027 Summer Internship — Austin, TX
+Category: Semiconductor/Process
+Date Found: 2026-08-05
+URL: https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2027-Summer-Internship_R119158
+
+Dear Samsung Austin Semiconductor Hiring Team,
+
+I am writing to apply for the 2027 Summer Internship at Samsung Austin Semiconductor. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this program because it offers direct exposure to the crystal growth and process control principles I study, applied at the scale of a high-volume fab.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile along the flow path to tailor crystal composition for semiconductor applications. This has given me hands-on experience with the same fundamentals that govern wafer-level process control: precise regulation of concentration gradients, thermal conditions, and growth kinetics to hit a targeted material outcome. Working with machinists to translate my CAD models into fabricated reactor components has also taught me to think about process design in terms of what is manufacturable and repeatable, not just what works once on paper.
+
+I have paired this research with strong data analysis skills relevant to fab process work. In an independent MATLAB project, I modeled adaptive cruise control response using a first-order system identification approach, applying a moving-average filter to clean noisy sensor data across nine vehicle-tire configurations. When I found unacceptably high model error, I traced it to a flawed start-time detection routine, redesigned the algorithm, and reduced error from as high as 81 percent to under 5 percent. That same discipline of isolating root causes in noisy data and iterating on a fix is exactly what process and yield engineering roles demand.
+
+I would welcome the opportunity to bring this research background and analytical approach to your team this summer, and I am eager to learn how these principles translate into a leading-edge production environment.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [Western Digital] Hardware Engineering Intern — Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://jobs.smartrecruiters.com/WesternDigital/744000140949875
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Hyannis Port Research] FPGA Engineering Intern — Needham, MA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Jane Street] Hardware Engineer (FPGA/ASIC) Internship — New York, NY
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.janestreet.com/join-jane-street/position/8624440002/
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Second Order Effects] Electrical Engineering Intern (Summer 2027) — El Segundo, CA / Redmond, WA
+Category: Computer Engineering
+Date Found: 2026-08-05
+URL: https://www.linkedin.com/jobs/view/electrical-engineering-intern-summer-2027-at-second-order-effects-4439663447
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
