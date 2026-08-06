@@ -684,3 +684,91 @@ Sincerely,
 Thirisha Solai
 
 ---
+
+## [SouthState Bank] Summer 2027 Commercial Banking Intern — Houston, TX
+Date Found: 2026-08-06
+URL: https://careers.southstatebank.com/us/en/job/R-05809/Summer-2027-Commercial-Banking-Intern-Houston-TX
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear SouthState Bank Hiring Team,
+
+I am writing to apply for the Summer 2027 Commercial Banking Intern position in Houston. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to SouthState's ten-week program because it offers exposure across credit, treasury management, and wealth management rather than a single narrow track, giving me the chance to see how a regional bank's businesses fit together while I contribute real analytical work.
+
+As a Research Intern at Loftin Wealth Partners, I participated in more than seven client advisory meetings covering portfolio allocation, retirement planning, and estate planning strategies, which taught me how to listen for a client's underlying goals and connect them to a concrete recommendation. That client instinct was built on substantive research: I evaluated the financial statements, valuation metrics, and market trends of five or more financial-sector companies to identify investment opportunities, then helped translate that analysis into the formal reports advisors used in client discussions. I see a direct parallel between that work and the credit and relationship-management skills a commercial banking intern needs to evaluate a business client's needs.
+
+I bring this client-facing foundation together with technical proficiency in SQL, Python, RStudio, and Tableau, and with a growing understanding of how technology is reshaping banking through my role as a mentee with the Fintech Organization at GSU, where I helped design an original fintech solution that earned first-place recognition from industry professionals. I would welcome the opportunity to bring this combination of relationship-building experience and analytical rigor to SouthState's Commercial Banking team in Houston this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [PNC Bank] Corporate & Institutional Banking Undergraduate Intern – Business Credit — Chicago, IL
+Date Found: 2026-08-06
+URL: https://careers.pnc.com/global/en/job/R230898/Corporate-Institutional-Banking-Undergraduate-Intern-Business-Credit
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear PNC Business Credit Hiring Team,
+
+I am writing to apply for the Corporate & Institutional Banking Undergraduate Intern position on PNC's Business Credit team in Chicago. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to Business Credit because evaluating the collateral and cash flow behind an asset-based lending facility calls for exactly the kind of rigorous, evidence-driven financial analysis I have practiced through my own research work.
+
+For my Financial Sector Equity Analysis project, I researched five publicly traded financial-sector companies end to end: assessing their financial statements, valuation metrics, and market positioning, then weighing how sector and macroeconomic trends affected their risk and growth outlook before synthesizing my conclusions into a formal investment report used in real client portfolio decisions at Loftin Wealth Partners. Building that analysis required me to structure and interpret data using SQL, Python, and RStudio, and to present findings clearly through Tableau, the same disciplined, data-first approach I understand PNC's Business Credit analysts apply when assessing a borrower's working capital assets.
+
+My year as a Research Intern at Loftin Wealth Partners reinforced this analytical foundation with real client stakes: I evaluated financial statements and market trends to support investment analysis and participated in more than seven client advisory meetings, learning to defend a financial conclusion under real scrutiny. I would welcome the opportunity to bring this combination of technical fluency and applied financial judgment to PNC's Business Credit team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Regions Bank] 2027 ETP Intern - Corporate Banking Group, Capital Markets — Charlotte, NC
+Date Found: 2026-08-06
+URL: https://www.linkedin.com/jobs/view/2027-etp-intern-corporate-banking-group-capital-markets-charlotte-nc-at-regions-bank-4369022153
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear Regions Bank Hiring Team,
+
+I am writing to apply for the 2027 Emerging Talent Program Intern position on Regions' Corporate Banking Group, Capital Markets team in Charlotte. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this role because it combines fundamental credit analysis with exposure to loan syndications and other capital markets products, an intersection that closely matches the research and analytical work I have already been doing.
+
+Through my Financial Sector Equity Analysis project, I evaluated the fundamentals, valuation metrics, and market positioning of five publicly traded financial-sector companies, weighing sector risk and growth potential before synthesizing my findings into a formal investment report used to inform client portfolio decisions at Loftin Wealth Partners. That process sharpened my ability to move from raw financial statements to a defensible, decision-ready view of a company's health, using SQL, Python, and RStudio to organize and analyze the underlying data and Tableau to communicate it clearly, skills I understand map directly onto the industry research and credit analysis this internship involves.
+
+My year as a Research Intern at Loftin Wealth Partners also gave me real client exposure: I participated in more than seven client advisory meetings involving portfolio allocation and planning strategy, which taught me to present financial analysis with the clarity a real decision requires. I would welcome the opportunity to bring this combination of research discipline and client awareness to Regions' Corporate Banking Group this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Ally Financial] Summer 2027 Internship - Accounting — Detroit, MI / Charlotte, NC
+Date Found: 2026-08-06
+URL: https://ally.avature.net/careers/JobDetail/Summer-2027-Internship-Accounting/14360
+
+Thirisha Solai
+(678) 325-0527 | spthirisha@gmail.com | U.S. Citizen | Atlanta, GA
+
+Dear Ally Financial Hiring Team,
+
+I am writing to apply for the Summer 2027 Accounting Internship at Ally Financial. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to Ally because it approaches banking as a digital-first, data-driven business, an environment where my technical training and research background would let me contribute from day one.
+
+For my Financial Sector Equity Analysis project, I evaluated the financial statements, valuation metrics, and market performance of five publicly traded financial-sector companies and synthesized my findings into a formal investment report used to inform client portfolio decisions at Loftin Wealth Partners. I structured and analyzed that data using SQL, Python, and RStudio, and presented it using Tableau, the same close attention to financial detail and data accuracy that I understand is central to Business Unit and Enterprise Accounting work. As a mentee with the Fintech Organization at GSU, I have also spent the past year studying digital banking and payments infrastructure directly, and my team's original fintech solution earned first-place recognition from industry professionals, an experience that sharpened my appreciation for how a digital-only bank like Ally operates behind the scenes.
+
+My year as a Research Intern at Loftin Wealth Partners further grounded this technical foundation in real financial statement analysis and client-facing accountability, experience I would bring directly to supporting the accuracy and integrity of Ally's financial reporting. I would welcome the opportunity to bring this combination of technical skill and financial analysis background to Ally's Accounting Internship this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---

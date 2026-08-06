@@ -562,3 +562,12 @@ URL: https://aijobs.net/job/1188216-asic-design-and-verification-intern-soc/
 Cover letter: pending — awaiting updated ECE/CompE resume material.
 
 ---
+
+## [Etched] Infrastructure Intern — San Jose, CA
+Category: Computer Engineering
+Date Found: 2026-08-06
+URL: https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
