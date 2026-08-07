@@ -571,3 +571,87 @@ URL: https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7
 Cover letter: pending — awaiting updated ECE/CompE resume material.
 
 ---
+
+## [Intel] Undergraduate Internship – Electrical Engineering, Computer Science, Computer Engineering (Bachelors) — Phoenix, AZ
+Category: Computer Engineering
+Date Found: 2026-08-07
+URL: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Undergraduate-Internship---Electrical-Engineering--Computer-Science--Computer-Engineering_JR0242257
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Apple] Hardware Technologies Undergrad Engineering Internships — Santa Clara Valley (Cupertino), CA
+Category: Computer Engineering
+Date Found: 2026-08-07
+URL: https://jobs.apple.com/en-us/details/200663968-3810/hardware-technologies-undergrad-engineering-internships
+
+Cover letter: pending — awaiting updated ECE/CompE resume material.
+
+---
+
+## [Micron Technology] Intern – ATE Process Engineer ID1 — Boise, ID
+Category: Semiconductor/Process
+Date Found: 2026-08-07
+URL: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR91586
+
+Dear Micron Technology Hiring Team,
+
+I am writing to apply for the Intern – ATE Process Engineer ID1 position at Micron's Boise, ID site. As a Materials Science and Engineering student at the Georgia Institute of Technology, I am excited by the opportunity to apply data-driven process optimization to Micron's high-volume DRAM manufacturing as it scales through the site's ongoing expansion.
+
+In an independent MATLAB-based project, I modeled adaptive cruise control response using a first-order system identification approach across nine vehicle tire configurations, applying a moving average filter to clean noisy sensor data. When my model produced error upwards of 81 percent, I traced the issue to a flawed start-time detection routine, redesigned the algorithm, and reduced error to under 5 percent with a sum of squared errors below 0.30. That process of diagnosing a systemic measurement flaw, isolating its root cause, and validating a fix through iterative testing is exactly the discipline that statistical process control and design of experiments demand in a high-volume manufacturing environment.
+
+Alongside this analytical background, I bring hands-on experience with the physical side of process work. In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, controlling precursor concentration and thermal profile to tailor material outcomes — direct experience translating process parameters into consistent, repeatable results. I am comfortable with Python, MATLAB, and data visualization tools, and I am eager to apply that toolkit to process optimization, yield improvement, and cost reduction initiatives on Micron's ATE Process Engineering team.
+
+I would welcome the opportunity to bring this analytical rigor and hands-on process mindset to your team this cycle.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [Micron Technology] Intern – Equipment Engineer ID1 — Boise, ID
+Category: Semiconductor/Process
+Date Found: 2026-08-07
+URL: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern---Equipment-Engineer-ID1_JR81907
+
+Dear Micron Technology Hiring Team,
+
+I am writing to apply for the Intern – Equipment Engineer ID1 position at Micron's Boise, ID site. As a Materials Science and Engineering student at the Georgia Institute of Technology with hands-on CAD and design experience, I am drawn to this role because it combines mechanical problem-solving with the precision equipment control that keeps a high-volume fab running.
+
+Through my coursework and project work, I have built strong CAD and product-lifecycle skills using NX, SolidWorks, and Teamcenter PDM. In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks for halide perovskite single-crystal growth, and I coordinate directly with machinists to translate my CAD models into fabricated components, iterating designs based on manufacturing feedback and tolerances. Separately, for the Little Blazer Engine Assembly project, I modeled a full engine assembly in NX using expressions, parameters, and design tables, and managed engineering change orders through Teamcenter's ECO/ECN workflow — experience that mirrors the documentation and change-control discipline equipment engineers rely on to keep tools qualified and production-ready.
+
+I also bring direct troubleshooting experience from Purdue's Undergraduate Rocket Propulsion Lab, where I optimized turbine blade chord angles on a roughly 50 lbf thrust turbojet engine, working hands-on with hardware to diagnose and improve mechanical performance. That comfort moving between CAD models, physical hardware, and iterative fixes is exactly the mindset I would bring to monitoring, maintaining, and improving Micron's manufacturing equipment.
+
+I would greatly appreciate the opportunity to bring this CAD and hands-on hardware background to your Equipment Engineering team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
+## [Micron Technology] Intern – Process Integration Engineer ID1 — Boise, ID
+Category: Semiconductor/Process
+Date Found: 2026-08-07
+URL: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern---Process-Integration-Engineer-ID1_JR83357
+
+Dear Micron Technology Hiring Team,
+
+I am writing to apply for the Intern – Process Integration Engineer ID1 position at Micron's Boise, ID site. As a Materials Science and Engineering student at the Georgia Institute of Technology, I am drawn to this role because it sits at the intersection of the crystal growth and materials characterization work I do in the lab and the systems-level thinking process integration demands when bridging module-level process control with device-level yield outcomes.
+
+In Professor Juan-Pablo Correa-Baena's lab, I am designing a continuous-flow reactor in SolidWorks to grow compositionally graded halide perovskite single crystals, precisely controlling precursor concentration and thermal profile along the flow path to tailor crystal composition. This work has given me a direct, practical understanding of how small changes in process parameters propagate into material and device-level outcomes — the same kind of cross-functional thinking that process integration requires when tracing a yield detractor back to a specific module or process step. I also work closely with machinists to translate my CAD designs into fabricated reactor components, which has taught me to think about process changes in terms of what is manufacturable and repeatable, not just what performs well in theory.
+
+I complement this materials background with strong data analysis skills. In an independent MATLAB project, I built a first-order system identification model of adaptive cruise control response, and after discovering high model error, traced the issue to a flawed start-time detection routine and reduced error from over 80 percent to under 5 percent. That habit of tracing a measured discrepancy back to its root cause is directly applicable to identifying and resolving yield detractors across DRAM module loops.
+
+I would be glad to bring this combination of hands-on crystal growth experience and analytical rigor to Micron's Process Integration team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---

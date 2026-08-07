@@ -772,3 +772,139 @@ Sincerely,
 Thirisha Solai
 
 ---
+
+## [U.S. Bank] 2027 Global Capital Markets Summer Intern – Debt Finance Banking — Charlotte, NC
+Date Found: 2026-08-07
+URL: https://careers.usbank.com/global/en/job/UBNAGLOBAL20260013036EXTERNALENGLOBAL/2027-Global-Capital-Markets-Summer-Intern-Debt-Finance-Banking
+
+Dear U.S. Bank Hiring Team,
+
+As a Business Administration student concentrating in IT Management at the Georgia Tech Scheller College of Business, I am drawn to the Debt Finance Banking track of the 2027 Global Capital Markets Summer Intern Program because it combines the quantitative rigor and client-facing exposure I have been building over the past two years. I would welcome the opportunity to bring that foundation to U.S. Bank's Capital Markets team in Charlotte.
+
+During my year as a Research Intern at Loftin Wealth Partners, I conducted equity research on more than five financial-sector companies, evaluating financial statements, valuation metrics, and market trends to support portfolio recommendations for high-net-worth clients. That work sharpened my ability to read financial statements critically and translate data into a clear investment narrative, skills I later applied independently in my Financial Sector Equity Analysis project, where I synthesized fundamental and macro research on five publicly traded financial companies into a formal client-facing report. Alongside this analytical experience, I use SQL, Python, RStudio, and Tableau regularly to organize and visualize data, tools I would bring directly to structuring and monitoring debt transactions.
+
+I am eager to learn the mechanics of debt capital markets from experienced bankers this summer and to contribute the same attention to detail and client orientation that defined my work at Loftin. Thank you for considering my application; I look forward to the possibility of joining U.S. Bank's Summer 2027 Capital Markets class.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Citi] Banking – Commercial Banking, Summer Analyst 2027 — Los Angeles, CA (+ Houston, Dallas, Chicago)
+Date Found: 2026-08-07
+URL: https://jobs.citi.com/job/los-angeles/banking-commercial-banking-summer-analyst-los-angeles-us-2027/287/92883072304
+
+Dear Citi Hiring Team,
+
+I am writing to apply for the Commercial Banking Summer Analyst Program for Summer 2027. As a Business Administration major concentrating in IT Management at Georgia Tech's Scheller College of Business, I am eager to apply my analytical training and client-relationship experience to Citi's work supporting middle-market and large corporate clients.
+
+At Loftin Wealth Partners, I spent a year researching more than five financial-sector companies, evaluating financial statements and valuation metrics to inform portfolio decisions for high-net-worth clients, and I sat in on seven client advisory meetings covering portfolio allocation and estate planning. That exposure to how financial professionals build credibility with clients complements the technical grounding from my Financial Sector Equity Analysis project, where I evaluated company fundamentals and macro trends and packaged my findings into a formal investment report. I also bring working proficiency in SQL, Python, RStudio, and Tableau, tools I would use to support the financial modeling and credit analysis central to a Commercial Banking Summer Analyst role.
+
+I am excited by the prospect of learning directly from Citi's commercial bankers and contributing meaningfully to client teams this summer. Thank you for your consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Morgan Stanley] 2027 Wealth Management Summer Analyst Program — New York, NY
+Date Found: 2026-08-07
+URL: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20928-2027-Wealth-Management-Summer-Analyst-Program-New-York/en-GB
+
+Dear Morgan Stanley Hiring Team,
+
+I am excited to apply for the 2027 Wealth Management Summer Analyst Program. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business, I have spent the past two years building hands-on experience in wealth management that I believe aligns closely with the goals of Morgan Stanley's Wealth Management Home Office.
+
+As a Research Intern at Loftin Wealth Partners, I conducted equity research on more than five financial-sector companies for high-net-worth client portfolios, evaluating financial statements, valuation metrics, and market trends, and I participated in seven client advisory meetings spanning portfolio allocation, retirement planning, and estate planning. That direct exposure to how advisors translate research into client recommendations shaped my Financial Sector Equity Analysis project, in which I synthesized fundamental and market research on five publicly traded financial companies into a formal investment report. I have paired this experience with technical skills in SQL, Python, RStudio, and Tableau that I am eager to apply to the research, digital platforms, and investment solutions work Summer Analysts support.
+
+I would be honored to bring this foundation to Morgan Stanley's Wealth Management team this summer and to continue developing as a future advisor to clients. Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Fidelity Investments] Equity Research Associate Internship – Summer 2027 — Boston, MA
+Date Found: 2026-08-07
+URL: https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Equity-Research-Associate-Internship---Summer-2027_2121003/apply
+
+Dear Fidelity Investments Hiring Team,
+
+I am applying for the Equity Research Associate Internship for Summer 2027. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business, I have already spent a year immersed in equity research, and I am eager to deepen that experience within Fidelity's Asset Management organization.
+
+As a Research Intern at Loftin Wealth Partners, I researched more than five publicly traded financial-sector companies, evaluating financial statements, valuation metrics, and market trends to develop investment recommendations for high-net-worth client portfolios, and I presented insights during seven client advisory meetings. I carried this experience further in my independent Financial Sector Equity Analysis project, where I built and defended a formal investment report on five financial companies by evaluating their fundamentals, market positioning, and macro trends, mirroring the autonomous stock research this internship requires. My coursework and project work have also given me proficiency in Excel, SQL, Python, and RStudio, tools I would use to build the financial models this role calls for.
+
+I would welcome the opportunity to develop under a Fidelity research mentor this summer and to contribute rigorous, well-supported research to your team. Thank you for considering my application.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [M&T Bank] 2027 Corporate Summer Internship Program – Finance — Buffalo, NY
+Date Found: 2026-08-07
+URL: https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2027-Corporate-Summer-Internship-Program--Finance_R87882/apply/applyManually
+
+Dear M&T Bank Hiring Team,
+
+I am writing to apply for the 2027 Corporate Summer Internship Program in Finance. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business, I am looking for a summer where I can apply both my analytical training and my growing technical toolkit to real financial planning and reporting work, and M&T Bank's Finance track is exactly that opportunity.
+
+My Financial Sector Equity Analysis project required me to evaluate the fundamentals, market positioning, and macro trends of five publicly traded financial companies and translate that analysis into a formal report suitable for client decision-making, work that mirrors the financial and management accounting responsibilities Finance interns take on. I built on those skills during my year as a Research Intern at Loftin Wealth Partners, where I evaluated financial statements and valuation metrics for more than five companies to support client portfolio recommendations. I regularly use SQL, Python, RStudio, and Tableau to organize and analyze data, and I am comfortable presenting findings clearly in Excel and PowerPoint.
+
+I would be glad to bring this combination of analytical rigor and communication skill to M&T Bank's Finance organization this summer. Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [BNP Paribas] 2027 Summer Analyst Internship – Corporate Functions, Operations — Jersey City, NJ
+Date Found: 2026-08-07
+URL: https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations
+
+Dear BNP Paribas Hiring Team,
+
+I am applying for the 2027 Summer Analyst Internship within Corporate Functions, Operations. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business, I am particularly drawn to how this role sits at the intersection of client service, process, and technology, an intersection I have explored directly through my extracurricular work in fintech.
+
+As a mentee in the Fintech Organization at Georgia State University, I was selected as one of seven students for a competitive mentorship program, where I completed more than ten professional development sessions on payments infrastructure, digital banking, and fintech innovation, and collaborated with a team on an original solution to a real-world financial services challenge that earned first-place recognition. That experience gave me a practical understanding of how operations teams support client engagement and transaction processing at scale. I have complemented this with a research background from Loftin Wealth Partners, where I evaluated financial statements and market trends for client portfolios, and with technical skills in SQL, Python, and Tableau that I would apply to analyzing operational data.
+
+I would welcome the chance to bring this blend of operational curiosity and analytical skill to BNP Paribas's Operations team this summer. Thank you for considering my application.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Wells Fargo] 2027 COO Global Operations Summer Internship, Early Careers — Charlotte, NC (+ Chandler, AZ / Irving, TX / Minneapolis, MN)
+Date Found: 2026-08-07
+URL: https://www.wellsfargojobs.com/en/jobs/r-556448/2027-coo-global-operations-summer-internship-early-careers/
+
+Dear Wells Fargo Hiring Team,
+
+I am excited to apply for the 2027 COO Global Operations Summer Internship. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business, I am motivated to understand how a bank the size of Wells Fargo runs its operations, business strategies, and corporate culture, and this program offers exactly that vantage point.
+
+Through my mentee experience with the Fintech Organization at Georgia State University, I completed more than ten professional development sessions covering payments infrastructure, digital banking, and fintech innovation, and I worked with a team to design an original solution to a real-world financial services challenge that earned first-place recognition, an experience that sharpened my understanding of how operations and technology intersect to serve customers. I paired that with a year of equity research at Loftin Wealth Partners, evaluating financial statements and market trends for client portfolios, and with a Financial Sector Equity Analysis project applying the same rigor independently. I also bring working knowledge of SQL, Python, RStudio, and Tableau that I would use to analyze operational data and support process improvement.
+
+I would be glad to bring this curiosity and analytical foundation to Wells Fargo's Global Operations team this summer. Thank you for your consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Truist] 2027 Corporate Banking - Summer Analyst Program (Internship) — Atlanta, GA
+Date Found: 2026-08-07
+URL: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/XMLNAME-2027-Corporate-Banking---Summer-Analyst-Program--Internship----Atlanta--GA_R0110874/apply/autofillWithResume
+
+Dear Truist Hiring Team,
+
+I am applying for the 2027 Corporate Banking Summer Analyst Program in Atlanta. As a Business Administration student concentrating in IT Management at Georgia Tech's Scheller College of Business and an Atlanta native, I am eager to begin my finance career close to home with a company as embedded in this city as Truist.
+
+My year as a Research Intern at Loftin Wealth Partners gave me direct experience evaluating financial statements, valuation metrics, and market trends for more than five financial-sector companies, work I presented to clients across seven advisory meetings covering portfolio allocation and financial planning. I extended that analysis independently through my Financial Sector Equity Analysis project, in which I assessed the fundamentals and market positioning of five publicly traded financial companies and produced a formal investment report, a process similar to the credit and financial analysis Corporate Banking Summer Analysts perform for clients. I also hold a Truist Emerging Leaders Certification, and I bring technical proficiency in SQL, Python, RStudio, and Tableau to support the data-driven work of the role.
+
+I would welcome the opportunity to grow as a Corporate Banking analyst with Truist this summer and to put my Emerging Leaders training into practice. Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
