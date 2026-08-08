@@ -908,3 +908,45 @@ Sincerely,
 Thirisha Solai
 
 ---
+
+## [Huntington National Bank] 2027 Corporate and Investment Banking Intern — Charlotte, NC / Columbus, OH
+Date Found: 2026-08-08
+URL: https://www.linkedin.com/jobs/view/2027-corporate-and-investment-banking-intern-at-huntington-national-bank-4366914129
+
+Dear Huntington National Bank Hiring Team,
+
+I am writing to apply for the 2027 Corporate and Investment Banking Intern position. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this program because it combines the transaction-level financial analysis I have already practiced with the client- and deal-facing exposure Huntington's Capital Markets teams offer.
+
+At Loftin Wealth Partners, I conducted equity research on five-plus financial-sector companies to identify investment opportunities for high-net-worth client portfolios, evaluating financial statements, valuation metrics, and market trends to support investment analysis and portfolio discussions. I also participated in seven-plus client advisory meetings covering portfolio allocation, retirement planning, and estate planning strategies, which gave me direct exposure to how analysis gets translated into recommendations that meet a client's real goals. That combination — careful company-level analysis paired with client-facing communication — is exactly what supporting business ideas, pitch strategies, and execution across Huntington's Debt Capital Markets, Equity Capital Markets, and Financial Sponsor Group teams would ask of me.
+
+As a mentee in the Fintech Organization at GSU, I was selected as one of seven students for a competitive mentorship program and completed ten-plus professional development sessions on payments infrastructure, digital banking, and fintech innovation, and my team earned first-place recognition for an original solution to a real-world financial services challenge. That program sharpened my understanding of how financial institutions build and evaluate new products and deepened my interest in the kind of strategic thinking Huntington's Corporate and Investment Banking group applies to client transactions.
+
+I would greatly appreciate the opportunity to bring this research background and client-facing experience to Huntington's team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---
+
+## [Texas Capital Bank] 2027 Summer Analyst (Internship) — Dallas, TX (+ Austin, Fort Worth, Houston, Richardson, Plano, San Antonio, TX)
+Date Found: 2026-08-08
+URL: https://texascapitalbank.wd12.myworkdayjobs.com/en-US/College_Career/job/XMLNAME-2027-Summer-Analyst--Internship-_JR105549-1
+
+Dear Texas Capital Bank Hiring Team,
+
+I am writing to apply for the 2027 Summer Analyst Internship. As a Business Administration student concentrating in Information Technology Management at Georgia Tech's Scheller College of Business, I am drawn to this program because it asks interns to build the same financial-statement and credit-analysis fundamentals I have already started developing through hands-on research and technical coursework.
+
+In my Financial Sector Equity Analysis project through Loftin Wealth Partners, I performed equity research on five publicly traded financial-sector companies, evaluating fundamentals, market positioning, and macro trends to assess sector risk and growth potential, and synthesized my findings into a formal investment report used to inform client portfolio recommendations. That project required me to move from raw financial statements to a structured, data-backed conclusion, the same skill this program's transaction structuring and investment proposal analysis calls for. I have paired that analytical foundation with technical tools including SQL, Python, RStudio, and Tableau, which let me organize and interpret financial data efficiently rather than working through it by hand.
+
+My time at Loftin Wealth Partners also included evaluating financial statements and valuation metrics directly for client portfolios and joining seven-plus client advisory meetings on portfolio allocation and planning strategy, so I understand both how to analyze a company's numbers and how that analysis eventually supports a real business or client decision.
+
+I would greatly appreciate the opportunity to bring this analytical background and technical skill set to Texas Capital Bank's Summer Analyst Program this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Thirisha Solai
+
+---

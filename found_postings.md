@@ -634,6 +634,28 @@ Ishaan Khambaswadkar
 
 ---
 
+## [Micron Technology] Intern – Assembly Equipment Engineer — Boise, ID
+Category: Semiconductor/Process
+Date Found: 2026-08-08
+URL: https://micron.wd1.myworkdayjobs.com/en-US/External/job/Intern---Assembly-Equipment-Engineer_JR96468
+
+Dear Micron Technology Hiring Team,
+
+I am writing to apply for the Intern – Assembly Equipment Engineer position on the Boise, ID site's Wire Bond team. As a Materials Science and Engineering student at Georgia Institute of Technology, I am drawn to this role because it combines the hands-on CAD and process-control work I do in the lab with the kind of equipment-level, data-driven problem solving that keeps a high-volume manufacturing line running reliably.
+
+Through coursework and independent projects, I have built substantial CAD and PLM experience that maps directly onto equipment engineering. In my NX Little Blazer Engine Assembly project, I modeled a top-level assembly composed of multiple sub-assemblies, using expressions, parameters, and design tables to manage part variants, and I incorporated a full Engineering Change Process in Teamcenter PDM, submitting and releasing design work through ECOs and formal approval workflows. That experience taught me how to document and control changes to a design or process so that other engineers and technicians can act on them with confidence — the same discipline that defining failure criteria and updating alarm logic on a production tool requires. In Professor Juan-Pablo Correa-Baena's lab, I am also designing a continuous-flow reactor in SolidWorks and working directly with machinists to translate CAD models into fabricated components, iterating designs against real fabrication tolerances and feedback from the people running the equipment.
+
+Alongside this CAD and PDM background, I have applied MATLAB to root-cause a stubborn detection bug: in an independent project, I traced high model error in an adaptive cruise control simulation to a flawed start-time detection routine, redesigned the detection algorithm, and cut start-time error from as much as 81 percent down to under 5 percent across nine vehicle-tire configurations. That kind of methodical, data-driven debugging is exactly what improving NSOP alarm logic and early bond-stick-failure detection calls for.
+
+I would welcome the opportunity to bring this CAD/PDM background and hands-on debugging approach to Micron's Assembly Equipment Engineering team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ishaan Khambaswadkar
+
+---
+
 ## [Micron Technology] Intern – Process Integration Engineer ID1 — Boise, ID
 Category: Semiconductor/Process
 Date Found: 2026-08-07
